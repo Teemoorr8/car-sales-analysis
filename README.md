@@ -28,7 +28,3 @@ Includes:
   
 ## Conclusion
 The analysis highlights the primary drivers of car sales and provides insights for optimizing product strategy.
-
-## 📎 Files
-- dataset → /data
-- dashboard → /dashboard
